@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_batch_values">
+        <item>BTech</item>
+        <item>MTech</item>
+        <item>PhD</item>
+    </string-array>
+    <string-array name="pref_batch_options">
+        <item>BTech</item>
+        <item>MTech</item>
+        <item>PhD</item>
+    </string-array>
+
+    <string-array name="pref_storage_values">
+        <item>Internal Storage</item>
+        <item>External Storage</item>
+    </string-array>
+    <string-array name="pref_storage_options">
+        <item>Internal Storage</item>
+        <item>External Storage</item>
+    </string-array>
+
+    <string-array name="pref_read_values">
+        <item>Internal Storage</item>
+        <item>External Storage</item>
+    </string-array>
+    <string-array name="pref_read_options">
+        <item>Internal Storage</item>
+        <item>External Storage</item>
+    </string-array>
+
+    <string-array name="pref_appdata_values">
+        <item>Public</item>
+        <item>Private</item>
+    </string-array>
+    <string-array name="pref_appdata_options">
+        <item>Public</item>
+        <item>Private</item>
+    </string-array>
+</resources>
